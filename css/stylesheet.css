@@ -1,0 +1,191 @@
+.rs__banner__form__wrap {
+    width: 378.25px;
+    background: #fff;
+    color: #fff;
+    padding: 30px 20px;
+    border-radius: 5px;
+    /* margin: 0 auto;
+    border: 1px solid #000; */
+    position: relative;
+    z-index: 9;
+    text-align: center;
+    margin-left: auto;
+}
+
+.rs__banner__form__wrap .rs__heading__wrap {}
+
+.rs__banner__form__wrap .rs__fields__wrap {}
+
+.rs__banner__form__wrap .rs__fields__wrap .rs__field {}
+
+.rs__banner__form__wrap .rs__fields__wrap .rs__field .rs__input__wrap {}
+
+.rs__banner__form__wrap .rs__fields__wrap .rs__field .rs__input__wrap input, .rs__banner__form__wrap .rs__fields__wrap .rs__field .rs__input__wrap select, .rs__banner__form__wrap .rs__fields__wrap .rs__field .rs__input__wrap textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #dad4d4;
+    color: black;
+    height: 47px;
+    font-size: 16px;
+    background: #ffffff00;
+    font-size: 13px;
+    appearance: auto;
+}
+
+.rs__banner__form__wrap .rs__fields__wrap .rs__field .rs__input__wrap textarea {
+    height: 100px;
+    resize: none;
+    color: #000;
+}
+
+.rs__banner__form__wrap .rs__fields__wrap .rs__btn__wrap {}
+
+.rs__banner__form__wrap .rs__fields__wrap .rs__btn__wrap button {
+    color: #fff;
+    border-radius: 22px;
+    margin: 0;
+    background-image: linear-gradient(to right top, rgb(255 0 0 / 55%), rgb(255 0 0 / 65%), rgb(255 0 0 / 75%), rgb(255 0 0 / 85%), #ff0000) !important;
+    font-size: 17px;
+    font-weight: 500;
+    text-transform: capitalize;
+    border: 0;
+    outline: none;
+    width: 100%;
+    min-height: 47px;
+    margin: 18px 0px 0px;
+}
+
+.rs__banner__form__wrap .rs__heading__wrap h3 {
+    display: block;
+    color: #000;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+.rs__banner__form__wrap .rs__heading__wrap h3 span {
+    font-size: 20px;
+    text-align: center;
+    margin: 0px 0px 0px;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: #ff0000;
+    line-height: 1.4;
+    display: block;
+}
+.rs__btn__style-a {
+    padding: 10px 20px!important;
+    border-radius: 20px !important;
+    color: #fff !important;
+    font-weight: 500!important;
+    background-color: white;
+    background-image: linear-gradient(to right top, rgb(255 0 0 / 20%), rgb(255 0 0 / 40%), rgb(255 0 0 / 60%), rgb(255 0 0 / 80%), #ff0000) !important;
+    font-size: 15px!important;
+    box-shadow: unset!important;
+    border: unset!important;
+}
+.rs__btn__style-b {
+    padding: 15px 40px!important;
+    border-radius: 35px!important;
+    color: #fff!important;
+    font-weight: 500!important;
+    font-size: 16px!important;
+    background-image: linear-gradient(to right top, rgb(255 0 0 / 20%), rgb(255 0 0 / 40%), rgb(255 0 0 / 60%), rgb(255 0 0 / 80%), #ff0000) !important;
+    animation: pulseWhite 1.5s ease-in-out infinite!important;
+    box-shadow: 0 0 0 0 rgba(230, 255, 255, 0.7);
+    border: unset!important;
+}
+
+@keyframes pulseWhite {
+    0% {
+        box-shadow: 0 0 0 0 rgb(255 0 0 / 50%);
+    }
+    70% {
+        box-shadow: 0 0 0 10px rgba(255, 255, 255, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(255, 255, 255, 0);
+    }
+}
+.rs__btn__style-c {
+    padding: 15px 40px !important;
+    border-radius: 35px !important;
+    color: black!important;
+    font-weight: 500 !important;
+    font-size: 16px !important;
+    box-shadow: unset!important;
+    border: 2px solid black!important;
+    background-color: transparent!important;
+    font-weight: 600!important;
+    transition: .2s easee-in-out!important;
+    background: unset!important;
+}
+
+.rs__btn__style-c:hover {
+    border: 2px solid #ff0000!important;
+    color: #ff0000!important;
+}
+.new-pf div#filters1 button {
+    border-radius: 1000px!important;
+    border-bottom: 2px solid #000000;
+    background-image: linear-gradient(to right top, rgb(255 0 0 / 55%), rgb(255 0 0 / 65%), rgb(255 0 0 / 75%), rgb(255 0 0 / 85%), #ff0000) !important;
+}
+.new-pf div#filters button {
+    border-radius: 1000px!important;
+    border-bottom: 2px solid #000000;
+}
+a#loadMore, #showMore {
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 1000px;
+    background-color: unset;
+    background-image: linear-gradient(to right top, rgb(255 0 0 / 55%), rgb(255 0 0 / 65%), rgb(255 0 0 / 75%), rgb(255 0 0 / 85%), #ff0000) !important;
+}
+section.cform-section form ul li input[type=submit] {
+    border-radius: 1000px;
+}
+.popupform ul li input[type=submit] {
+    border-radius: 1000px;
+}
+.cs-wb-pkg-show a.grad-btn {
+    background-color: yellow;
+    background-image: linear-gradient(to right top, rgb(255 0 0 / 55%), rgb(255 0 0 / 65%), rgb(255 0 0 / 75%), rgb(255 0 0 / 85%), #ff0000) !important;
+}
+.new-pf div#filters .button.is-checked {
+    background-color: unset;
+    background-image: linear-gradient(to right top, rgb(255 0 0 / 55%), rgb(255 0 0 / 65%), rgb(255 0 0 / 75%), rgb(255 0 0 / 85%), #ff0000) !important;
+}
+.popupform ul li input[type=submit] {
+    padding: 9px 22px;
+}
+
+@media (max-width: 992px) {
+    .rs__banner__form__wrap {
+        margin: 0px auto;
+    }
+    .rs__banner__form__wrap .rs__heading__wrap h3 {
+        font-size: 24px;
+    }
+    .rs__banner__form__wrap .rs__heading__wrap h3 span {
+        font-size: 18px;
+    }
+}
+@media (max-width: 568px) {
+    .rs__banner__form__wrap {
+        width: 100%;
+    }
+    .rs__banner__form__wrap .rs__heading__wrap h3 span {
+        font-size: 16px;
+        margin: 0px 0px 10px;
+    }
+    .rs__banner__form__wrap .rs__heading__wrap h3 {
+        line-height: 28px;
+    }
+    .rs__banner__form__wrap .rs__fields__wrap .rs__btn__wrap button {
+        min-height: 44px;
+        margin: 16px 0px 0px;
+        font-size: 16px;
+        font-weight: 500;
+    }
+}
