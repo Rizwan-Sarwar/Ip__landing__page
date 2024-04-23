@@ -1,0 +1,749 @@
+@media only screen and (max-width:1000px) and (min-width:320px) {
+    section.br-sol [class^=col-md-4]>div ul {
+        text-align: left
+    }
+    section.newserv {
+        padding: 0
+    }
+    ul.yel-list li img {
+        max-width: 24px
+    }
+    section.design-art-content {
+        text-align: center;
+        padding: 30px 0;
+        margin-top: 0
+    }
+    section.design-art-content h2 {
+        font-size: 27px;
+        font-weight: 600
+    }
+    section.design-art-content p {
+        padding: 0;
+        font-size: 13px;
+        margin-bottom: 23px
+    }
+    section.new-pf {
+        padding: 30px 0
+    }
+    section.new-pf h2 {
+        margin: 0 0 13px;
+        font-size: 24px;
+        font-weight: 600;
+        padding: 0 24px
+    }
+    .new-pf div#filters {
+        margin-bottom: 33px
+    }	
+    section.packages [class^=col-md-4]>div {
+        margin-bottom: 54px;
+        max-width: 300px
+    }
+    .cs-wb-ul li {
+        width: 100%
+    }
+    .cs-wb-ul ul {
+        width: 100%;
+        padding: 0
+    }
+    .cs-wb-ul {
+        width: 100%!important
+    }
+    .cs-wb-pkg-show {
+        width: 98%!important;
+        margin: 0 auto
+    }
+    section.cta-n {
+        text-align: center;
+        padding: 30px 0
+    }
+    section.cta-n h4 {
+        margin: 0;
+        font-size: 19px;
+        font-weight: 600
+    }
+    section.cta-n ul li {
+        margin-bottom: 33px;
+        padding-left: 44px;
+        width: 100%;
+        margin-left: 0;
+        font-size: 17px
+    }
+    section.cta-n ul {
+        margin-top: 33px
+    }
+    section.cta-n ul li i img {
+        max-width: 32px
+    }
+    section.satisfied-customer .leftsec {
+        width: 100%;
+        text-align: center;
+        height: auto;
+        padding: 0
+    }
+    section.satisfied-customer h2:before {
+        font-size: 53px;
+        left: 10px;
+        top: -20px
+    }
+    section.satisfied-customer {
+        padding: 40px 0
+    }
+    section.satisfied-customer h2 {
+        font-size: 22px
+    }
+    section.satisfied-customer h2+p {
+        font-size: 13px;
+        padding: 0 10px
+    }
+    section.satisfied-customer .rightsec {
+        width: 100%;
+        padding: 0 30px
+    }
+    .banner a.chat.grad-btn {
+        font-size: 13px;
+        padding: 11px 20px;
+        margin-top: 13px
+    }
+    section.new-pf h2+p {
+        padding: 0;
+        font-size: 13px;
+        margin-bottom: 40px
+    }
+    .new-pf div#filters button {
+        padding: 8px 14px;
+        margin: 3px 2px
+    }
+    .grid {
+        padding: 0
+    }
+    section.pfsec {
+        padding: 20px
+    }
+    header {
+        z-index: 9
+    }
+    .logodiv {
+        text-align: center;
+        width: 100%
+    }
+    section.banner h1 {
+        margin: 20px 0 0;
+        font-size: 28px
+    }
+    section.banner ul.yel-list li {
+        width: 100%;
+        font-size: 12px
+    }
+    .banner-form {
+        width: 100%
+    }
+    section.banner h3 {
+        font-size: 19px;
+        line-height: 20px
+    }
+    section.sponsor-slider {
+        margin-top: -50px;
+        padding: 10px 20px 8px;
+        display: none
+    }
+    section.newserv li {
+        width: 100%
+    }
+    section.exp {
+        text-align: center;
+        padding: 10px 0
+    }
+    section.exp ul li {
+        padding: 20px 0;
+        border: 1px solid #dedede63;
+        margin-bottom: 14px;
+        width: 46%;
+        box-shadow: #0000003b 0 0 3px;
+        margin: 0 5px 9px
+    }
+    section.exp h2 {}
+    section.exp h2 span {
+        margin-bottom: 20px
+    }
+    section.pfsec h2 {
+        font-size: 24px;
+        margin: 0 0 20px
+    }
+    section.pfsec h2+p {
+        width: 100%;
+        line-height: 21px;
+        font-size: 11px;
+        margin-bottom: 10px
+    }
+    .portfolioslider i {
+        width: 25%;
+        margin: 0 0 5px
+    }
+    .portfolioslider.owl-carousel.owl-theme.owl-loaded.owl-drag {
+        text-align: center;
+        margin: 0 auto
+    }
+    section.packages .row+.row {
+        width: auto
+    }
+    section.packages .col-md-4 {
+        margin: 0 0 40px
+    }
+    section.helpingbrand {
+        padding: 20px 0
+    }
+    section.br-sol {
+        text-align: center;
+        padding: 20px;
+        padding-bottom: 30px
+    }
+    section.br-sol .col-md-7 h2 {
+        margin: 0;
+        font-size: 19px;
+        line-height: inherit;
+        margin-bottom: 10px
+    }
+    section.br-sol .col-md-7 h2 br {
+        display: none
+    }
+    section.br-sol .col-md-7 h2+p {
+        font-size: 14px;
+        line-height: 22px
+    }
+    section.br-sol .col-md-7 a {
+        margin-bottom: 30px
+    }
+    section.helpingbrand h2 {
+        font-size: 22px;
+        margin: 0 0 10px
+    }
+    section.helpingbrand p {
+        padding: 0
+    }
+    section.helpingbrand ul li {
+        width: 100%;
+        margin-bottom: 20px
+    }
+    section.cta-new {
+        text-align: center
+    }
+    .cta-new .col-md-3.text-left,
+    .cta-new .col-md-3.text-right {
+        text-align: center
+    }
+    section.cta-new ul {
+        margin-bottom: 20px
+    }
+    section.cta-new h2 {
+        margin: 10px 0;
+        font-size: 32px
+    }
+    section.numbers {
+        padding: 20px 0
+    }
+    section.numbers h2 {
+        font-size: 24px;
+        line-height: 27px;
+        margin: 0 0 20px
+    }
+    section.numbers h2+p {
+        padding: 0
+    }
+    section.numbers ul li {
+        width: 100%;
+        padding: 40px 20px;
+        margin: 0 0 20px
+    }
+    section.numbers ul li i {
+        position: relative;
+        top: 0;
+        display: block;
+        margin-bottom: 20px
+    }
+    section.numbers ul li {}
+    section.numbers ul li img.aut-img {}
+    section.numbers ul li h3 {
+        font-size: 19px
+    }
+    section.cform-section {
+        padding: 20px 0 17px
+    }
+    section.cform-section h2+p {
+        padding: 0;
+        font-size: 13px
+    }
+    section.cform-section form ul li {
+        width: 100%;
+        margin-bottom: 10px
+    }
+    section.cform-section form ul li:last-child {
+        width: 50%
+    }
+    section.cform-section form ul li textarea {
+        min-height: 100px;
+        margin: 0
+    }
+    section.portfolio [class^=col-md-3] img {
+        margin: 0 auto;
+        display: block
+    }
+    section.portfolio [class^=col-md-3] {
+        margin-bottom: 10px
+    }
+    section.portfolio .video [class^=col-md-3] img {
+        margin-top: -33px
+    }
+    ul.submenu {
+        display: block;
+        position: relative;
+        background: 0 0;
+        text-align: left;
+        width: 100%;
+        top: inherit
+    }
+    header ul.nav.navbar-nav {
+        margin: 0;
+        background: #000;
+        padding: 20px;
+        text-align: left
+    }
+    div#navbar {
+        width: 80%;
+        text-align: center;
+        border: none;
+        margin-top: 20px;
+        box-shadow: none;
+        float: right
+    }
+    header ul li span:before,
+    span:after {
+        display: none
+    }
+    header ul.nav.navbar-nav li a {
+        display: block;
+        padding: 4px 0
+    }
+    ul.submenu li {
+        width: 100%;
+        padding: 0 10px
+    }
+    .navbar-default {
+        min-height: auto;
+        height: auto;
+        z-index: 1
+    }
+    section.banner a {}
+    .navbar-default .navbar-toggle {
+        border-color: transparent;
+        position: absolute;
+        top: -55px;
+        right: 0
+    }
+    .navbar-default .navbar-toggle:focus,
+    .navbar-default .navbar-toggle:hover {
+        background-color: transparent
+    }
+    img.logo-img {
+        display: block;
+        margin: 0 auto;
+        width: 175px;
+        max-width: 210px;
+        z-index: 5;
+        position: relative
+    }
+    footer img.logo-img {
+        display: none
+    }
+    section.clients-sec h2:after {
+        left: 4px
+    }
+    .contact-sec {
+        position: relative;
+        right: 0;
+        display: none
+    }
+    .contact-sec a+a {
+        border: none;
+        font-size: 11px
+    }
+    .navbar-default {
+        display: block
+    }
+    .contact-sec a {
+        width: 240px;
+        margin: 0 auto
+    }
+    .contact-sec span {
+        width: 50%;
+        float: left;
+        top: 10px;
+        position: relative;
+        border: none!important
+    }
+    section.banner h2 {
+        font-size: 17px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        line-height: 24px
+    }
+    section.banner.inner-banner h2 {
+        font-size: 24px!important;
+        line-height: 35px
+    }
+    section.banner {
+        padding: 100px 20px 30px;
+        font-size: 13px;
+        line-height: 22px;
+        height: auto;
+        text-align: center
+    }
+    section.banner.inner-banner {
+        height: auto
+    }
+    section.banner br {
+        display: none
+    }
+    section.sponsors {
+        text-align: center
+    }
+    section.sponsors h2 {
+        text-align: center;
+        margin-bottom: 20px
+    }
+    section.sponsors h2:after {
+        left: 38%
+    }
+    section.aboutus {
+        background: 0 0;
+        font-size: 13px;
+        line-height: 21px;
+        padding-bottom: 30px;
+        padding-top: 0
+    }
+    section.aboutus h2 {
+        font-size: 29px;
+        line-height: 30px
+    }
+    section.aboutus em {
+        font-size: 15px
+    }
+    section.aboutus .pd-lft50 {
+        padding: 20px
+    }
+    a.btn-outline,
+    a.btn-bluefull {
+        margin: 20px 0;
+        display: inline-block
+    }
+    section.services {
+        padding: 20px 0
+    }
+    section.portfolio {
+        padding: 20px 0
+    }
+    section.packages {
+        padding: 40px 0
+    }
+    .aboutus .slider-portfolio.owl-carousel.owl-theme.owl-loaded.owl-drag {
+        margin: 30px 0
+    }
+    section.services h3 {
+        font-size: 21px;
+        line-height: 22px;
+        margin-bottom: 20px
+    }
+    .ser-box {
+        width: 100%;
+        background: #fff;
+        padding: 10px;
+        padding-left: 110px
+    }
+    .ser-box i {
+        top: 30px
+    }
+    section.services h3 br {
+        display: none
+    }
+    section.services h3:after {
+        bottom: 4px;
+        top: inherit
+    }
+    section.portfolio .pd-lft50 {
+        padding: 20px;
+        text-align: center
+    }
+    section.portfolio h2 {
+        font-size: 21px;
+        line-height: 24px;
+        margin: 0
+    }
+    .carouselTicker__list {
+        height: 163px
+    }
+    ul.porfolio-slider li,
+    ul.porfolio-slider2 li {
+        margin: 0;
+        width: 200px;
+        height: 163px
+    }
+    .carouselTicker__list {
+        height: 163px
+    }
+    section.portfolio h2:after {
+        left: 38%;
+        bottom: 2px
+    }
+    section.portfolio .col-md-7 p {
+        padding: 0;
+        text-align: center
+    }
+    section.packages h2 {
+        padding: 0;
+        text-align: center;
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 10px
+    }
+    section.packages h2:after {
+        left: 35%;
+        bottom: 24px
+    }
+    section.packages p {
+        width: 100%!important;
+        padding: 0;
+        text-align: center;
+        line-height: 20px;
+        font-size: 13px;
+        margin-bottom: 23px
+    }
+    section.packages .col-md-3>div {
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 30px
+    }
+    section.packages .col-md-3 h3 {
+        font-size: 30px
+    }
+    section.packages .col-md-3 span.price-tag {
+        font-size: 72px;
+        margin-bottom: 0
+    }
+    section.packages .col-md-3 ul {
+        padding: 0
+    }
+    section.packages .col-md-3>div i {
+        right: 2px
+    }
+    section.branding {
+        padding: 30px;
+        text-align: center
+    }
+    section.branding h2 {
+        margin: 50px 0 20px;
+        font-size: 34px
+    }
+    .branding span.text-rt {
+        left: -30px;
+        top: -80px;
+        margin-top: 20px
+    }
+    section.branding img {
+        max-width: 200px
+    }
+    section.clients-sec {
+        padding: 20px
+    }
+    section.clients-sec span i {
+        top: -30px
+    }
+    section.clients-sec em {
+        font-size: 18px
+    }
+    section.clients-sec em+p {
+        padding: 0;
+        text-align: center
+    }
+    footer {
+        text-align: center;
+        padding-bottom: 40px!important
+    }
+    footer .col-md-4.text-left {
+        text-align: center;
+        margin-bottom: 20px
+    }
+    .col-md-12.disclaimer {
+        padding-bottom: 0
+    }
+    .disclaimer ul li {}
+    footer .col-md-8.text-right {
+        text-align: center
+    }
+    .disclaimer ul li {
+        margin-bottom: 15px
+    }
+    section.packages .col-md-3 a {
+        display: table;
+        margin-top: 30px
+    }
+    .disclaimer ul li a:after {
+        padding: 0 0 0 17px
+    }
+    .disclaimer ul {
+        margin-top: 10px
+    }
+    div#testimoanial-slider .feeback-img {
+        width: 100%
+    }
+    .testimonail-wrapper {
+        text-align: center
+    }
+    div#testimoanial-slider .feecback-content h6 {
+        font-size: 12px
+    }
+    div#testimoanial-slider .feecback-content p {
+        font-size: 11px;
+        line-height: 16px
+    }
+    div#testimoanial-slider .feecback-content {
+        width: 100%;
+        padding: 0
+    }
+    .testimonail-wrapper .bx-controls-direction {
+        top: 20px
+    }
+    .testimonail-wrapper a.bx-prev {
+        margin-bottom: 10px
+    }
+    .contact-sec span {
+        border: none
+    }
+    .slider-portfolio .item img {
+        margin: 0 auto!important
+    }
+    .aboutus .slider-portfolio.owl-carousel.owl-theme.owl-loaded.owl-drag {
+        text-align: center;
+        position: relative
+    }
+    .slider-portfolio .owl-nav {
+        bottom: 3px;
+        top: inherit;
+        display: inline-flex;
+        right: 3px
+    }
+    div#testimoanial-slider .item {
+        min-height: 300px;
+        height: auto
+    }
+    section.service-desc {
+        padding: 20px
+    }
+    section.animation-process {
+        padding: 20px;
+        text-align: center
+    }
+    section.animation-process .text-right {
+        text-align: center;
+        margin-top: 30px
+    }
+    section.animation-process [class^=col-] h4 span {
+        position: relative;
+        display: block
+    }
+    section.animation-process [class^=col-] h4 {
+        padding: 0
+    }
+    section.service-desc h1 {
+        font-size: 26px
+    }
+    section.service-desc p.txt-large {
+        font-size: 17px;
+        line-height: 22px;
+        margin-bottom: 21px
+    }
+    section.service-desc h1 br {
+        display: none
+    }
+    .customerslider .owl-dots {
+        bottom: 0;
+        left: 30px
+    }
+    .service-desc i {
+        left: inherit;
+        top: 0;
+        right: 0
+    }
+    div#popupform {
+        width: 89%;
+        padding: 15px
+    }
+    .popupform:before {
+        visibility: hidden
+    }
+    .popupform ul li textarea {
+        height: 71px
+    }
+    .popupform [class^=col-]+[class^=col-] {
+        padding-left: 15px;
+        margin-top: -10px
+    }
+    .popupform h2 {
+        font-size: 21px;
+        margin-top: 0
+    }
+    .popupform h2+p {
+        font-size: 12px;
+        line-height: 17px;
+        margin-bottom: 7px
+    }
+    .popupform ul li input[type=text],
+    .popupform ul li input[type=email],
+    .popupform ul li textarea {
+        font-size: 12px
+    }
+    section.design-industry h4 {
+        font-size: 24px;
+        text-align: center;
+        letter-spacing: 0;
+        margin: 0 0 20px
+    }
+    section.design-industry img {
+        max-width: 100%
+    }
+    section.packages h2 br {
+        display: none
+    }
+    .cs-wb-pkg-show .pricebox {
+        text-align: center
+    }
+    section.cform-section h2 {
+        margin-bottom: 12px;
+        font-size: 23px
+    }
+    section.cform-section form {
+        width: 100%
+    }
+}
+
+@media (max-width: 470px) {
+    .fancybox-slide>* {
+		margin: 44px 10px;
+	}
+	.popupform {
+		width: revert;
+	}
+	.popupform ul li input[type=submit] {
+		font-size: 13px;
+	}
+	.banner-form input[type=submit] {
+		font-size: 13px;
+		padding: 13px 0px;
+	}
+	.banner h2 span.hide-on-mobile {
+		display:none;
+	}
+	
+	section.banner .badge-div {
+		display:  none;
+	}
+	
+}
